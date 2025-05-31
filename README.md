@@ -11,7 +11,7 @@ There are some projects by the developer community that use Cordia API to create
 You will need to generate an API Key on the Dashboard (SOON).
 
 ## Implementation Examples
-### Python
+### 🐍 Python
 ```python
 from openai import OpenAI
 client = OpenAI(
